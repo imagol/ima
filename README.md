@@ -1,4 +1,4 @@
-#Imagol Token Contracts
+# Imagol Token Contracts
 This repository includes Imagol token smart contracts. IMA is ERC20 standard token, created using Truffle framework.
 
 ### Testing Token
